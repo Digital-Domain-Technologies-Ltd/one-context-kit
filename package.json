@@ -1,0 +1,15 @@
+{
+  "name": "one-context-kit",
+  "version": "1.0.0",
+  "description": "One rules file for AI agents, a pointer for each harness, and a check that keeps the pointers honest.",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "check": "node scripts/check-context.mjs",
+    "test": "node --test test/check-context.test.mjs"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "canonical": "RULES.md",
+  "maxPointerLines": 30,
+  "pointers": [
+    { "harness": "Codex, Hermes Agent, Cursor, GitHub Copilot, Windsurf", "path": "AGENTS.md" },
+    { "harness": "Claude Code", "path": "CLAUDE.md" },
+    { "harness": "Gemini CLI", "path": "GEMINI.md" },
+    { "harness": "Continue", "path": ".continue/rules/project-rules.md" }
+  ]
+}
